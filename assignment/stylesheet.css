@@ -1,13 +1,20 @@
 body{
-    
+    margin: 0;
 }
 
 .title{
     background-color: midnightblue;
-    color:papayawhip;
+    color:rgb(244, 196, 152);
     text-align: center;
 }
 
 .content{
-    background-color: lightslategrey;
+    background-color: rgb(165, 172, 179);
+    padding: 1em;
+}
+
+.page{
+    background-image: url(record.png);
+    background-repeat:round;
+    height:100vh;
 }
