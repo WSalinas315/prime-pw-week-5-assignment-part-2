@@ -1,18 +1,22 @@
+/* Set margins to 0 */
 body{
     margin: 0;
 }
 
+/* Set background color, text color and alignment */
 .title{
     background-color: midnightblue;
     color:rgb(244, 196, 152);
     text-align: center;
 }
 
+/* Set background color and content padding */
 .content{
     background-color: rgb(165, 172, 179);
     padding: 1em;
 }
 
+/* Set background image to repeat */
 .page{
     background-image: url(record.png);
     background-repeat:round;
